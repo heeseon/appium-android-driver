@@ -144,7 +144,8 @@ If more than one of these capabilities are given, the driver will only use first
 | `touchUp`                  |
 | `unlock`                   |
 | `wrapBootstrapDisconnect`  |
-
+| `getPerformanceDataTypes`  |
+| `getPerformanceData`       |
 
 ## API Notes
 
